@@ -1,0 +1,91 @@
+#home{
+text-align:center;
+color:Gold
+}
+#welcome{
+  background: linear-gradient(#caed3e 0%, #343d0d 100%);
+z-index: 9;
+}
+#album{
+ width: 134px;
+ margin-bottom: 50px;
+ border-radius: 50%;
+}
+.menu{
+position: fixed;
+background:white;
+width:100%;
+margin-top:0px;
+top:0px;
+z-index: 10;
+text-align:center;
+}
+}
+h2{
+text-align: center;
+color:cornflowerblue;
+font-family:cursive;
+}
+p1{
+text-align:center;
+color: Red;
+}
+#album{
+padding:9px;
+}
+.p{
+background-color: aquamarine;
+}
+.w{
+text-align:center;
+}
+#about{
+text-align:center;
+background-color:chocolate;
+}
+#My fourite shots{
+text-align:center;
+background-color: aqua
+}
+#Inspiration{
+text-align:center;
+background-color: darkviolet;
+}
+#img{
+padding:10px;
+transition: transform .2s;
+}
+.links:hover{
+font-size:25px;
+text-decoration: none;
+color:gold;  
+}
+
+.links{
+display:inline;
+padding-left:33px;
+padding-right:25px;
+font-family: sans-serif;
+font-size: 20px;  
+}
+#img:hover{
+transform: scale(0.9);
+}
+#contact{
+background-color:darkgoldenrod;
+text-align:center;
+}
+.contact1 h3{
+display:inline;
+}
+.contact1 a{
+color:white;
+}
+
+.links{
+display:inline;
+padding-left:33px;
+padding-right:25px;
+font-family: sans-serif;
+font-size: 20px;  
+}
